@@ -1,4 +1,7 @@
 import { Text, View } from "react-native";
+import { CustomText } from '../components/ui/CustomText';
+import { CustomButton } from '../components/ui/CustomButton';
+
 import "./global.css";
 export default function Index() {
   return (
